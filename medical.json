@@ -1,0 +1,2804 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32140147948469,
+          47.61244039888191
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic-Broadway",
+        "OBJECTID": 1,
+        "FEATURE_ID": 2655,
+        "ESITE": 442834,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Polyclinic-Broadway",
+        "ADDRESS": "1001 Broadway Ave",
+        "ZIPCODE": 98122,
+        "WEBSITE": "http://www.polyclinic.com/Locations/SiteInfo/LocationDetails/tabid/158/Default.aspx?CurrentClinicID=6",
+        "PIN": 1978201270,
+        "MAJOR": 197820,
+        "MINOR": 1270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.229281776757,
+          47.36684721831654
+        ]
+      },
+      "properties": {
+        "name": "Alder Square Health Center",
+        "OBJECTID": 2,
+        "FEATURE_ID": 2309,
+        "ESITE": 675664,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Alder Square Health Center",
+        "ADDRESS": "1404 Central Ave S",
+        "ZIPCODE": 98032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31113068982337,
+          47.607410751884856
+        ]
+      },
+      "properties": {
+        "name": "Providence Medical Center",
+        "OBJECTID": 3,
+        "FEATURE_ID": 1076,
+        "ESITE": 435003,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Providence MC",
+        "ADDRESS": "500 17th Ave",
+        "ZIPCODE": 98122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21488154944385,
+          47.48160215318938
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Renton",
+        "OBJECTID": 4,
+        "FEATURE_ID": 2704,
+        "ESITE": 582936,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Renton",
+        "ADDRESS": "200 S 2nd St",
+        "ZIPCODE": 98057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21224245238137,
+          47.44432450509623
+        ]
+      },
+      "properties": {
+        "name": "Valley Medical Clinic Family Medicine",
+        "OBJECTID": 5,
+        "FEATURE_ID": 2680,
+        "ESITE": 608049,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Valley Medical Clinic Family Medicine",
+        "ADDRESS": "3915 Talbot Rd S",
+        "ZIPCODE": 98055
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35062030317285,
+          47.49433438913866
+        ]
+      },
+      "properties": {
+        "name": "Schicks Shadel",
+        "OBJECTID": 6,
+        "FEATURE_ID": 1815,
+        "ESITE": 571073,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Schick's Shadel",
+        "ADDRESS": "12101 Ambaum Blvd SW",
+        "ZIPCODE": 98146,
+        "WEBSITE": "http://www.schickshadel.com/",
+        "PIN": 3744600205,
+        "MAJOR": 374460,
+        "MINOR": "0205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31825525460579,
+          47.65825157990733
+        ]
+      },
+      "properties": {
+        "name": "UW Medical Center Roosevelt",
+        "OBJECTID": 7,
+        "FEATURE_ID": 2679,
+        "ESITE": 14062,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Medical Center Roosevelt",
+        "ADDRESS": "4225 Roosevelt Way NE",
+        "ZIPCODE": 98105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1899882304892,
+          47.61213464578814
+        ]
+      },
+      "properties": {
+        "name": "Virginia Mason Clinic-Bellevue",
+        "OBJECTID": 8,
+        "FEATURE_ID": 2688,
+        "ESITE": 107001,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Virginia Mason Clinic-Bellevue",
+        "ADDRESS": "222 112th Ave NE",
+        "ZIPCODE": 98004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29590095131728,
+          47.4877643485797
+        ]
+      },
+      "properties": {
+        "name": "Highline Medical Center Speciality Campus",
+        "OBJECTID": 9,
+        "FEATURE_ID": 1645,
+        "ESITE": 735824,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Highline Medical Center Specialty Center",
+        "ADDRESS": "12844 Military Rd S",
+        "ZIPCODE": 98168,
+        "WEBSITE": "http://www.highlinemedicalcenter.org/about/index.php",
+        "PIN": 1623049001,
+        "MAJOR": 162304,
+        "MINOR": 9001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34221148823138,
+          47.70482857697873
+        ]
+      },
+      "properties": {
+        "name": "Blood Bank-Northend",
+        "OBJECTID": 10,
+        "FEATURE_ID": 1505,
+        "ESITE": 260184,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Blood Bank - Northend",
+        "ADDRESS": "10357 Stone Ave N",
+        "ZIPCODE": 98133,
+        "WEBSITE": "http://www.psbc.org/programs/cntr_seattle_north.htm",
+        "PIN": 6300500180,
+        "MAJOR": 630050,
+        "MINOR": "0180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1607699250632,
+          47.57900372243373
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Factoria",
+        "OBJECTID": 11,
+        "FEATURE_ID": 1617,
+        "ESITE": 101588,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Factoria",
+        "ADDRESS": "13451 SE 36th St",
+        "ZIPCODE": 98006,
+        "WEBSITE": "https://member.ghc.org/public/locations/medcenters/64/index.jhtml",
+        "PIN": 3927250010,
+        "MAJOR": 392725,
+        "MINOR": "0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21425098678814,
+          47.442718961355204
+        ]
+      },
+      "properties": {
+        "name": "UW Medicine Valley Medical Center",
+        "OBJECTID": 12,
+        "FEATURE_ID": 693,
+        "ESITE": 597748,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Valley Medical Center",
+        "ADDRESS": "400 SW 43rd St",
+        "ZIPCODE": 98055,
+        "WEBSITE": "http://www.valleymed.org/",
+        "PIN": 8857670010,
+        "MAJOR": 885767,
+        "MINOR": "0010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20184918498018,
+          47.368523654860624
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Kent",
+        "OBJECTID": 13,
+        "FEATURE_ID": 2648,
+        "ESITE": 669345,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Kent",
+        "ADDRESS": "26004 104th Ave SE",
+        "ZIPCODE": 98030,
+        "PIN": 2922059053,
+        "MAJOR": 292205,
+        "MINOR": 9053
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18502452686226,
+          47.62580258967248
+        ]
+      },
+      "properties": {
+        "name": "UW Eastide Speciality",
+        "OBJECTID": 14,
+        "FEATURE_ID": 2678,
+        "ESITE": 119204,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Eastide Speciality",
+        "ADDRESS": "1700 116th Ave NE",
+        "ZIPCODE": 98004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28244435039865,
+          47.434696350212576
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint SeaTac",
+        "OBJECTID": 15,
+        "FEATURE_ID": 2705,
+        "ESITE": 1002788,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint SeaTac",
+        "ADDRESS": "4040 S 188th St",
+        "ZIPCODE": 98188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38018913764347,
+          47.66817144807996
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic-Ballard",
+        "OBJECTID": 16,
+        "FEATURE_ID": 2654,
+        "ESITE": 320400,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Polyclinic-Ballard",
+        "ADDRESS": "1801 NW Market St",
+        "ZIPCODE": 98107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38522078822164,
+          47.668836123361196
+        ]
+      },
+      "properties": {
+        "name": "Swedish Clinic Ballard",
+        "OBJECTID": 17,
+        "FEATURE_ID": 2661,
+        "ESITE": 772145,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Clinic Ballard",
+        "ADDRESS": "2208 NW Market St",
+        "ZIPCODE": 98107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.15709226822945,
+          47.48968915205595
+        ]
+      },
+      "properties": {
+        "name": "Valley Medical Highlands Primary Care",
+        "OBJECTID": 18,
+        "FEATURE_ID": 2684,
+        "ESITE": 898887,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Valley Medical Highlands Primary Care",
+        "ADDRESS": "451 Duvall Ave NE",
+        "ZIPCODE": 98059
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20142878560569,
+          47.37864783427787
+        ]
+      },
+      "properties": {
+        "name": "Valley Medical Kent Primary Care",
+        "OBJECTID": 19,
+        "FEATURE_ID": 2685,
+        "ESITE": 659790,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Valley Medical Kent Primary Care",
+        "ADDRESS": "24920 104th Ave SE",
+        "ZIPCODE": 98030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18005825610881,
+          47.71714601575742
+        ]
+      },
+      "properties": {
+        "name": "Virginia Mason Clinic-Kirkland",
+        "OBJECTID": 20,
+        "FEATURE_ID": 2690,
+        "ESITE": 38444,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Virginia Mason Clinic-Kirkland",
+        "ADDRESS": "13014 120th Ave NE",
+        "ZIPCODE": 98034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22934806770984,
+          47.3819106219157
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Kent",
+        "OBJECTID": 21,
+        "FEATURE_ID": 2703,
+        "ESITE": 616260,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Kent",
+        "ADDRESS": "403 E Meeker St",
+        "ZIPCODE": 98030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32031332981327,
+          47.608249070899696
+        ]
+      },
+      "properties": {
+        "name": "Northwest Kidney Center",
+        "OBJECTID": 22,
+        "FEATURE_ID": 1735,
+        "ESITE": 451165,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Northwest Kidney Center",
+        "ADDRESS": "700 Broadway",
+        "ZIPCODE": 98122,
+        "WEBSITE": "http://www.nwkidney.org/index.html",
+        "PIN": 1978201435,
+        "MAJOR": 197820,
+        "MINOR": 1435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1899882304892,
+          47.61213464578814
+        ]
+      },
+      "properties": {
+        "name": "Virginia Mason-Bellevue",
+        "OBJECTID": 23,
+        "FEATURE_ID": 2353,
+        "ESITE": 107001,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Virginia Mason Bellevue",
+        "ADDRESS": "222 112th Ave NE",
+        "ZIPCODE": 98004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1526971664504,
+          47.75542539817047
+        ]
+      },
+      "properties": {
+        "name": "UW Clinic Woodinville",
+        "OBJECTID": 24,
+        "FEATURE_ID": 2677,
+        "ESITE": 83325,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Clinic Woodinville",
+        "ADDRESS": "17638 140th Ave NE",
+        "ZIPCODE": 98072
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.24931460129957,
+          47.4586819754242
+        ]
+      },
+      "properties": {
+        "name": "Blood Bank-Tukwila",
+        "OBJECTID": 25,
+        "FEATURE_ID": 1506,
+        "ESITE": 609352,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Blood Bank - Tukwila",
+        "ADDRESS": "130 Andover Park",
+        "ZIPCODE": 98188,
+        "WEBSITE": "http://www.psbc.org/programs/cntr_tukwila.htm",
+        "PIN": "0223100040",
+        "MAJOR": "022310",
+        "MINOR": "0040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30803562168093,
+          47.56362720819231
+        ]
+      },
+      "properties": {
+        "name": "VA Puget Sound Health Care System - Seattle Division",
+        "OBJECTID": 26,
+        "FEATURE_ID": 923,
+        "ESITE": 766335,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "VA PS Health Care - Seattle Division",
+        "ADDRESS": "1660 S Columbian Way",
+        "ZIPCODE": 98108,
+        "WEBSITE": "http://www1.va.gov/directory/guide/facility.asp?ID=120&dnum=ALL&map=1",
+        "PIN": 1624049193,
+        "MAJOR": 162404,
+        "MINOR": 9193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31969532959415,
+          47.29111918223449
+        ]
+      },
+      "properties": {
+        "name": "Federal Way CBOC (Valor Healthcare)",
+        "OBJECTID": 27,
+        "FEATURE_ID": 2380,
+        "ESITE": 707843,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Federal Way CBOC (Valor Healthcare)",
+        "ADDRESS": "34617 11th Pl S",
+        "ZIPCODE": 98003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12927355565829,
+          47.67332265141198
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Redmond at Riverpark",
+        "OBJECTID": 28,
+        "FEATURE_ID": 1624,
+        "ESITE": 982335,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Redmond at Riverpark",
+        "ADDRESS": "15809 Bear Creek Pkwy",
+        "ZIPCODE": 98052,
+        "WEBSITE": "http://www.ghc.org/locations/medcenters/9/index.jhtml",
+        "PIN": "0673100050",
+        "MAJOR": "067310",
+        "MINOR": "0050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32537512906698,
+          47.60853565495156
+        ]
+      },
+      "properties": {
+        "name": "Cabrini Medical Tower",
+        "OBJECTID": 29,
+        "FEATURE_ID": 1520,
+        "ESITE": 444607,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Cabrini Medical Tower",
+        "ADDRESS": "901 Boren Ave",
+        "ZIPCODE": 98104,
+        "WEBSITE": "http://www.lostinseattle.com/LIS/building/cabrinimedicaltower.html",
+        "PIN": 8590901010,
+        "MAJOR": 859090,
+        "MINOR": 1010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32773783623448,
+          47.6098603213719
+        ]
+      },
+      "properties": {
+        "name": "Virginia Mason Seattle Main Clinic",
+        "OBJECTID": 30,
+        "FEATURE_ID": 821,
+        "ESITE": 433317,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Virginia Mason Med Ctr",
+        "ADDRESS": "925 Seneca St",
+        "ZIPCODE": 98101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33084297437188,
+          47.3004553244476
+        ]
+      },
+      "properties": {
+        "name": "Virginia Mason Clinic-Federal Way",
+        "OBJECTID": 31,
+        "FEATURE_ID": 2175,
+        "ESITE": 714727,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Virginia Mason Clinic - Federal Way",
+        "ADDRESS": "33501 1st Way S",
+        "ZIPCODE": 98003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02193365638234,
+          47.53610375017806
+        ]
+      },
+      "properties": {
+        "name": "Swedish Medical Center Issaquah",
+        "OBJECTID": 32,
+        "FEATURE_ID": 2330,
+        "ESITE": 991032,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Medical Center Issaquah",
+        "ADDRESS": "751 NE Blakely Dr",
+        "ZIPCODE": 98029,
+        "WEBSITE": "http://www.swedish.org/locations/issaquah-campus",
+        "PIN": 3205700000,
+        "MAJOR": 320570,
+        "MINOR": "0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16750794439825,
+          47.575780409322434
+        ]
+      },
+      "properties": {
+        "name": "Swedish Clinic Factoria",
+        "OBJECTID": 33,
+        "FEATURE_ID": 2664,
+        "ESITE": 96899,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Clinic Factoria",
+        "ADDRESS": "12917 SE 38th St",
+        "ZIPCODE": 98006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29956771645072,
+          47.58409294692098
+        ]
+      },
+      "properties": {
+        "name": "Center Park Council",
+        "OBJECTID": 34,
+        "FEATURE_ID": 2079,
+        "ESITE": 464705,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Center Park Council",
+        "ADDRESS": "2121 26th Ave S",
+        "ZIPCODE": 98144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19262704791066,
+          47.48662987168345
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Renton",
+        "OBJECTID": 35,
+        "FEATURE_ID": 1625,
+        "ESITE": 582523,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Renton",
+        "ADDRESS": "275 Bronson Way NE",
+        "ZIPCODE": 98056,
+        "WEBSITE": "http://www.ghc.org/locations/medcenters/7/index.jhtml",
+        "PIN": 1723059102,
+        "MAJOR": 172305,
+        "MINOR": 9102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32273892657017,
+          47.60970348717816
+        ]
+      },
+      "properties": {
+        "name": "Arnold Medical Center",
+        "OBJECTID": 36,
+        "FEATURE_ID": 1489,
+        "ESITE": 762460,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Arnold Medical Center",
+        "ADDRESS": "1221 Madison St",
+        "ZIPCODE": 98104,
+        "WEBSITE": "none",
+        "PIN": 8725990000,
+        "MAJOR": 872599,
+        "MINOR": "0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33466465897466,
+          47.610544958792374
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Downtown Seattle",
+        "OBJECTID": 37,
+        "FEATURE_ID": 1621,
+        "ESITE": 438355,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Downtown Seattle",
+        "ADDRESS": "1420 5th Ave",
+        "ZIPCODE": 98101,
+        "PIN": 1975700080,
+        "MAJOR": 197570,
+        "MINOR": "0080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31203998230563,
+          47.61990140575978
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Capitol Hill Campus",
+        "OBJECTID": 38,
+        "FEATURE_ID": 2647,
+        "ESITE": 453243,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Capitol Hill Campus",
+        "ADDRESS": "201 16th Ave E",
+        "ZIPCODE": 98112,
+        "PIN": 3117000005,
+        "MAJOR": 311700,
+        "MINOR": "0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.11657419535305,
+          47.3584699293001
+        ]
+      },
+      "properties": {
+        "name": "Valley Medical Covington",
+        "OBJECTID": 39,
+        "FEATURE_ID": 2682,
+        "ESITE": 664049,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Valley Medical Covington",
+        "ADDRESS": "16850 SE 272nd St",
+        "ZIPCODE": 98042
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03437950720132,
+          47.53717019294903
+        ]
+      },
+      "properties": {
+        "name": "Virginia Mason Clinic-Issaquah",
+        "OBJECTID": 40,
+        "FEATURE_ID": 2689,
+        "ESITE": 572713,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Virginia Mason Clinic-Issaquah",
+        "ADDRESS": "100 NE Gilman Blvd",
+        "ZIPCODE": 98027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3279282994224,
+          47.60953210906627
+        ]
+      },
+      "properties": {
+        "name": "Virginia Mason Hospital and Seattle Medical Center",
+        "OBJECTID": 41,
+        "FEATURE_ID": 2692,
+        "ESITE": 446849,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Virginia Mason Seattle Main Clinic",
+        "ADDRESS": "1100 9th Ave",
+        "ZIPCODE": 98101,
+        "WEBSITE": "https://www.virginiamason.org/home/body.cfm?xyzpdqabc=0&id=342&action=detail&ref=28",
+        "PIN": 1979200225,
+        "MAJOR": 197920,
+        "MINOR": "0225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36623556142881,
+          47.534194795647466
+        ]
+      },
+      "properties": {
+        "name": "Navos Mental Health Solutions",
+        "OBJECTID": 42,
+        "FEATURE_ID": 1122,
+        "ESITE": 482452,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Navos Mental Health",
+        "ADDRESS": "2600 SW Holden St",
+        "ZIPCODE": 98106,
+        "WEBSITE": "http://www.highlinementalhealth.org/index.php?option=com_akostaff&Itemid=72",
+        "PIN": 7985400265,
+        "MAJOR": 798540,
+        "MINOR": "0265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33708724921735,
+          47.71477019736725
+        ]
+      },
+      "properties": {
+        "name": "Northwest Hospital and Medical Center",
+        "OBJECTID": 43,
+        "FEATURE_ID": 1150,
+        "ESITE": 274969,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "NW Hosp and Med Ctr",
+        "ADDRESS": "1550 N 115th St",
+        "ZIPCODE": 98133,
+        "WEBSITE": "http://www.nwhospital.org/",
+        "PIN": 3026049130,
+        "MAJOR": 302604,
+        "MINOR": 9130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.02193365638234,
+          47.53610375017806
+        ]
+      },
+      "properties": {
+        "name": "Swedish-Issaquah ER",
+        "OBJECTID": 44,
+        "FEATURE_ID": 3300065,
+        "ESITE": 991032,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish-Issaquah ER",
+        "ADDRESS": "751 NE Blakely Dr",
+        "ZIPCODE": 98029,
+        "WEBSITE": "http://www.swedish.org/locations/issaquah-emergency-room",
+        "PIN": 3205700000,
+        "MAJOR": 320570,
+        "MINOR": "0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32895091737349,
+          47.60699715477168
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic-Madison",
+        "OBJECTID": 45,
+        "FEATURE_ID": 2644,
+        "ESITE": "000000",
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Polyclinic-Madison",
+        "ADDRESS": "904 7th Ave",
+        "ZIPCODE": 98104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22747953955304,
+          47.30892120990375
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Auburn",
+        "OBJECTID": 46,
+        "FEATURE_ID": 2699,
+        "ESITE": 719555,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Auburn",
+        "ADDRESS": "126 Auburn Ave NE",
+        "ZIPCODE": 98002,
+        "PIN": 1735800420,
+        "MAJOR": 173580,
+        "MINOR": "0420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27965395101982,
+          47.55422908624125
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Rainier",
+        "OBJECTID": 47,
+        "FEATURE_ID": 1623,
+        "ESITE": 478724,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Rainier",
+        "ADDRESS": "5316 Rainier Ave S",
+        "ZIPCODE": 98118,
+        "WEBSITE": "http://www.ghc.org/locations/medcenters/46/index.jhtml",
+        "PIN": 1704900338,
+        "MAJOR": 170490,
+        "MINOR": "0338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.04109937340701,
+          47.550558808765444
+        ]
+      },
+      "properties": {
+        "name": "Overlake Medical Center Issaquah",
+        "OBJECTID": 48,
+        "FEATURE_ID": 2331,
+        "ESITE": 847103,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Overlake Medical Center Issaquah",
+        "ADDRESS": "5708 E Lake Sammamish Pkwy SE",
+        "ZIPCODE": 98029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3221785706257,
+          47.596128377167915
+        ]
+      },
+      "properties": {
+        "name": "International District Medical and Dental Clinic",
+        "OBJECTID": 49,
+        "FEATURE_ID": 1634,
+        "ESITE": 1013565,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Int'l Dist Med and Dental Clinic",
+        "ADDRESS": "720 8th Ave S",
+        "ZIPCODE": 98104,
+        "PIN": 8592900105,
+        "MAJOR": 859290,
+        "MINOR": "0105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.12339016630983,
+          47.679409908643116
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Redmond",
+        "OBJECTID": 50,
+        "FEATURE_ID": 2700,
+        "ESITE": 536743,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Redmond",
+        "ADDRESS": "16225 NE 87th St",
+        "ZIPCODE": 98052,
+        "PIN": "0225059099",
+        "MAJOR": "022505",
+        "MINOR": 9099
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30465356014942,
+          47.60132932717676
+        ]
+      },
+      "properties": {
+        "name": "Carolyn Downs Family Medical Center",
+        "OBJECTID": 51,
+        "FEATURE_ID": 1637,
+        "ESITE": 433895,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Carolyn Downs Family Medical Center",
+        "ADDRESS": "2101 E Yesler Way",
+        "ZIPCODE": 98122,
+        "WEBSITE": "http://www.desc.org/",
+        "PIN": 1493600000,
+        "MAJOR": 149360,
+        "MINOR": "0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33008183195325,
+          47.62803019004405
+        ]
+      },
+      "properties": {
+        "name": "Fred Hutchinson Cancer Research Center",
+        "OBJECTID": 52,
+        "FEATURE_ID": 2123,
+        "ESITE": 759903,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Fred Hutchinson Center",
+        "ADDRESS": "1100 Fairview Av N",
+        "ZIPCODE": 98109,
+        "PIN": 1984200455,
+        "MAJOR": 198420,
+        "MINOR": "0455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33165424876788,
+          47.31416396339955
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Federal Way",
+        "OBJECTID": 53,
+        "FEATURE_ID": 1618,
+        "ESITE": 712275,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Federal Way",
+        "ADDRESS": "301 S. 320th St",
+        "ZIPCODE": 98003,
+        "WEBSITE": "http://www.ghc.org/locations/medcenters/10/index.jhtml",
+        "PIN": 1721049105,
+        "MAJOR": 172104,
+        "MINOR": 9105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20058653697899,
+          47.76094139712311
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Bothell",
+        "OBJECTID": 54,
+        "FEATURE_ID": 2702,
+        "ESITE": 175585,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Bothell",
+        "ADDRESS": "10414 Beardslee Blvd",
+        "ZIPCODE": 98011,
+        "PIN": 3906100105,
+        "MAJOR": 390610,
+        "MINOR": "0105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18435776277964,
+          47.71607764435281
+        ]
+      },
+      "properties": {
+        "name": "Pacific Medical Totem Lake",
+        "OBJECTID": 55,
+        "FEATURE_ID": 2652,
+        "ESITE": 44178,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Pacific Medical Totem Lake",
+        "ADDRESS": "12910 Totem lake Blvd",
+        "ZIPCODE": 98034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39941319749225,
+          47.640246909360584
+        ]
+      },
+      "properties": {
+        "name": "Swedish Clinic Magnolia",
+        "OBJECTID": 56,
+        "FEATURE_ID": 2667,
+        "ESITE": 414443,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Clinic Magnolia",
+        "ADDRESS": "2450 33rd Ave W",
+        "ZIPCODE": 98199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32378758106854,
+          47.70086966630466
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Northgate",
+        "OBJECTID": 57,
+        "FEATURE_ID": 1622,
+        "ESITE": 834234,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Northgate",
+        "ADDRESS": "9800 4th Ave NE",
+        "ZIPCODE": 98115,
+        "WEBSITE": "http://www.ghc.org/locations/medcenters/6/index.jhtml",
+        "PIN": 2434900130,
+        "MAJOR": 243490,
+        "MINOR": "0130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30955235219778,
+          47.60801738193683
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic-Cardiology",
+        "OBJECTID": 58,
+        "FEATURE_ID": 2656,
+        "ESITE": "0000000",
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Polyclinic-Cardiology",
+        "ADDRESS": "550 17th Ave",
+        "ZIPCODE": 98122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31121422241941,
+          47.60648715193113
+        ]
+      },
+      "properties": {
+        "name": "Swedish Clinic Central Seattle",
+        "OBJECTID": 59,
+        "FEATURE_ID": 2662,
+        "ESITE": 448514,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Clinic Central Seattle",
+        "ADDRESS": "1600 E Jefferson St",
+        "ZIPCODE": 98122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38642936767013,
+          47.57295942548899
+        ]
+      },
+      "properties": {
+        "name": "Swedish West Seattle Primary Care",
+        "OBJECTID": 60,
+        "FEATURE_ID": 2670,
+        "ESITE": 470933,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish West Seattle",
+        "ADDRESS": "3400 California Ave SW",
+        "ZIPCODE": 98116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34844467550147,
+          47.6153352277815
+        ]
+      },
+      "properties": {
+        "name": "UW Clinic Belltown",
+        "OBJECTID": 61,
+        "FEATURE_ID": 2671,
+        "ESITE": 832972,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Clinic Belltown",
+        "ADDRESS": "2505 2nd Ave",
+        "ZIPCODE": 98121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32192760536763,
+          47.6088420320288
+        ]
+      },
+      "properties": {
+        "name": "Swedish Medical Center First Hill Campus",
+        "OBJECTID": 62,
+        "FEATURE_ID": 819,
+        "ESITE": 836480,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Med Ctr First Hill",
+        "ADDRESS": "747 Broadway Ave",
+        "ZIPCODE": 98104,
+        "WEBSITE": "http://www.swedish.org/body.cfm?id=2031",
+        "PIN": 1978200665,
+        "MAJOR": 197820,
+        "MINOR": "0665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.98744557703111,
+          47.20939700682391
+        ]
+      },
+      "properties": {
+        "name": "Enumclaw WIC Services",
+        "OBJECTID": 63,
+        "FEATURE_ID": 2698,
+        "ESITE": 394659,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Enumclaw WIC",
+        "ADDRESS": "2254 Jensen St",
+        "ZIPCODE": 98022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32967027875813,
+          47.62667214711525
+        ]
+      },
+      "properties": {
+        "name": "Seattle Cancer Care Alliance",
+        "OBJECTID": 64,
+        "FEATURE_ID": 2202,
+        "ESITE": 434812,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Seattle Cancer Care Alliance",
+        "ADDRESS": "825 Eastlake Ave E",
+        "ZIPCODE": 98109,
+        "WEBSITE": "http://www.seattlecca.org/",
+        "PIN": 1361300055,
+        "MAJOR": 136130,
+        "MINOR": "0055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30304905552528,
+          47.31450151440241
+        ]
+      },
+      "properties": {
+        "name": "UW Clinic Federal Way",
+        "OBJECTID": 65,
+        "FEATURE_ID": 2673,
+        "ESITE": 868245,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Clinic Federal Way",
+        "ADDRESS": "32018 23rd Ave S",
+        "ZIPCODE": 98003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18069302195278,
+          47.76859935145157
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Northshore ",
+        "OBJECTID": 66,
+        "FEATURE_ID": 1615,
+        "ESITE": 177415,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Northshore ",
+        "ADDRESS": "11913 NE 195th St",
+        "ZIPCODE": 98011,
+        "WEBSITE": "http://www.ghc.org/",
+        "PIN": 6979200210,
+        "MAJOR": 697920,
+        "MINOR": "0210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31113068849365,
+          47.6074107519021
+        ]
+      },
+      "properties": {
+        "name": "Swedish Cherry Hill Campus",
+        "OBJECTID": 67,
+        "FEATURE_ID": 3300022,
+        "ESITE": 435003,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Cherry Hill Campus",
+        "ADDRESS": "500 17th Ave",
+        "ZIPCODE": 98122,
+        "WEBSITE": "http://www.swedish.org/body.cfm?id=2030",
+        "PIN": 7942600331,
+        "MAJOR": 794260,
+        "MINOR": "0331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37961188832553,
+          47.667426651181266
+        ]
+      },
+      "properties": {
+        "name": "Swedish Medical Center Ballard Campus",
+        "OBJECTID": 68,
+        "FEATURE_ID": 3300043,
+        "ESITE": 328287,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Ballard Campus",
+        "ADDRESS": "5300 Tallman Ave NW",
+        "ZIPCODE": 98107,
+        "WEBSITE": "http://www.swedish.org/body.cfm?id=2052",
+        "PIN": 2767703875,
+        "MAJOR": 276770,
+        "MINOR": 3875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32117669907709,
+          47.70656086904501
+        ]
+      },
+      "properties": {
+        "name": "Kindred Hospital Seattle - Northgate",
+        "OBJECTID": 69,
+        "FEATURE_ID": 3300047,
+        "ESITE": 773391,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kindred",
+        "ADDRESS": "10631 8th Ave NE",
+        "ZIPCODE": 98125,
+        "WEBSITE": "http://www.kindredhospitalseattle.com/BuildPage.asp?Pageid=3",
+        "PIN": 2926049409,
+        "MAJOR": 292604,
+        "MINOR": 9409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3365587976624,
+          47.61278659107126
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic-Downtown",
+        "OBJECTID": 70,
+        "FEATURE_ID": 2657,
+        "ESITE": 839308,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Polyclinic-Downtown",
+        "ADDRESS": "509 Olive Way",
+        "ZIPCODE": 98101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3227023863955,
+          47.70441808620997
+        ]
+      },
+      "properties": {
+        "name": "Pacific Medical Center-North",
+        "OBJECTID": 71,
+        "FEATURE_ID": 1753,
+        "ESITE": 254493,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Pacific MC- North",
+        "ADDRESS": "10416 5th Ave NE",
+        "ZIPCODE": 98125,
+        "WEBSITE": "http://www.pacificmedicalcenters.org/",
+        "PIN": 5101408393,
+        "MAJOR": 510140,
+        "MINOR": 8393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20984948378424,
+          47.44158422460158
+        ]
+      },
+      "properties": {
+        "name": "Pacific Medical Center Renton",
+        "OBJECTID": 72,
+        "FEATURE_ID": 1754,
+        "ESITE": 592751,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Pacific Medical Center Renton",
+        "ADDRESS": "601 SE Carr Rd",
+        "ZIPCODE": 98055,
+        "WEBSITE": "http://www.pacmed.org/locations.renton.html",
+        "PIN": 3123059006,
+        "MAJOR": 312305,
+        "MINOR": 9006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28542044800373,
+          47.66281739575019
+        ]
+      },
+      "properties": {
+        "name": "Virginia Mason Clinic-Sand Point",
+        "OBJECTID": 73,
+        "FEATURE_ID": 2691,
+        "ESITE": 840083,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Virginia Mason Clinic-Sand Point",
+        "ADDRESS": "4575 Sand Point Way NE",
+        "ZIPCODE": 98105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28148076640483,
+          47.66239057806564
+        ]
+      },
+      "properties": {
+        "name": "Seattlle Childrens Hospital",
+        "OBJECTID": 74,
+        "FEATURE_ID": 872,
+        "ESITE": 349884,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Seattle Childrens Hospital",
+        "ADDRESS": "4800 Sand Point Way NE",
+        "ZIPCODE": 98105,
+        "WEBSITE": "http://www.seattlechildrens.org/",
+        "PIN": 2982800005,
+        "MAJOR": 298280,
+        "MINOR": "0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9877597583601,
+          47.209180054893906
+        ]
+      },
+      "properties": {
+        "name": "St. Elizabeth Hospital",
+        "OBJECTID": 75,
+        "FEATURE_ID": 3300044,
+        "ESITE": 983761,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "St. Elizabeth Hospital",
+        "ADDRESS": "1455 Battersby Ave",
+        "ZIPCODE": 98022,
+        "WEBSITE": "http://www.enumclawhospital.com/",
+        "PIN": 2420069029,
+        "MAJOR": 242006,
+        "MINOR": 9029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30698090639326,
+          47.62342400962018
+        ]
+      },
+      "properties": {
+        "name": "Country Doctor Community Clinic",
+        "OBJECTID": 76,
+        "FEATURE_ID": 1639,
+        "ESITE": 894962,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Country Doctor Community Clinic",
+        "ADDRESS": "500 19th Ave E",
+        "ZIPCODE": 98112,
+        "WEBSITE": "none",
+        "PIN": 4400200030,
+        "MAJOR": 440020,
+        "MINOR": "0030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36623543553141,
+          47.534195167088264
+        ]
+      },
+      "properties": {
+        "name": "Highline West Seattle Mental Health Center",
+        "OBJECTID": 77,
+        "FEATURE_ID": 3300063,
+        "ESITE": 482452,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Highline West Seattle Mental Health",
+        "ADDRESS": "2600 SW Holden St",
+        "ZIPCODE": 98126,
+        "WEBSITE": "http://www.highlinementalhealth.org/index.php",
+        "PIN": 2023049006,
+        "MAJOR": 202304,
+        "MINOR": 9006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18666021809221,
+          47.61872881790285
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Bellevue",
+        "OBJECTID": 78,
+        "FEATURE_ID": 2646,
+        "ESITE": 881737,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Bellevue",
+        "ADDRESS": "11511 NE 10th St",
+        "ZIPCODE": 98004,
+        "WEBSITE": "http://www.ghc.org/locations/medcenters/31/index.jhtml",
+        "PIN": 6448110150,
+        "MAJOR": 644811,
+        "MINOR": "0150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33571016086674,
+          47.47296094730795
+        ]
+      },
+      "properties": {
+        "name": "Kaiser Permanente - Burien",
+        "OBJECTID": 79,
+        "FEATURE_ID": 1616,
+        "ESITE": 574256,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Kaiser Permanente - Burien",
+        "ADDRESS": "140 SW 146th St",
+        "ZIPCODE": 98166,
+        "WEBSITE": "http://www.ghc.org/locations/medcenters/2/index.jhtml",
+        "PIN": 1923049302,
+        "MAJOR": 192304,
+        "MINOR": 9302
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03666040721228,
+          47.583237591765155
+        ]
+      },
+      "properties": {
+        "name": "Swedish Pine Lake Primary Care",
+        "OBJECTID": 80,
+        "FEATURE_ID": 2666,
+        "ESITE": 532763,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Pine Lake Primary Care",
+        "ADDRESS": "22707 SE 29th St",
+        "ZIPCODE": 98075,
+        "PIN": 6791040000,
+        "MAJOR": 679104,
+        "MINOR": "0000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3075672436099,
+          47.61609376111429
+        ]
+      },
+      "properties": {
+        "name": "Hearing Speech and Deafness Center",
+        "OBJECTID": 81,
+        "FEATURE_ID": 1626,
+        "ESITE": 455639,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Artz Communications Center",
+        "ADDRESS": "1625 19th Ave",
+        "ZIPCODE": 98122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34542890050486,
+          47.500357286961844
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Evergreen Campus",
+        "OBJECTID": 82,
+        "FEATURE_ID": 10000040,
+        "ESITE": 12265,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Evergreen Campus",
+        "ADDRESS": "830 SW 116th St",
+        "ZIPCODE": 98146,
+        "PIN": "0723049367",
+        "MAJOR": "072304",
+        "MINOR": 9367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21877073753566,
+          47.33099340587811
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint at Valley Cities Auburn",
+        "OBJECTID": 83,
+        "FEATURE_ID": 10000041,
+        "ESITE": 687011,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint at Valley Cities Auburn",
+        "ADDRESS": "2704 I St NE",
+        "ZIPCODE": 98002,
+        "PIN": "0001000085",
+        "MAJOR": "000100",
+        "MINOR": "0085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2223761555584,
+          47.31709202900279
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Auburn North",
+        "OBJECTID": 84,
+        "FEATURE_ID": 10000042,
+        "ESITE": 707622,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Auburn North",
+        "ADDRESS": "923 Auburn Way N",
+        "ZIPCODE": 98002,
+        "PIN": "0721059052",
+        "MAJOR": "072105",
+        "MINOR": 9052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30624308267241,
+          47.365128032013345
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Midway",
+        "OBJECTID": 85,
+        "FEATURE_ID": 10000043,
+        "ESITE": 381228,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Midway",
+        "ADDRESS": "26401 Pacific Hwy S",
+        "ZIPCODE": 98198,
+        "PIN": 2822049191,
+        "MAJOR": 282204,
+        "MINOR": 9191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29510867394718,
+          47.48596130572295
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Tukwila",
+        "OBJECTID": 86,
+        "FEATURE_ID": 10000044,
+        "ESITE": 735784,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Tukwila",
+        "ADDRESS": "13030 Military Rd S",
+        "ZIPCODE": 98168,
+        "PIN": 1623049171,
+        "MAJOR": 162304,
+        "MINOR": 9171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27739357071013,
+          47.435538689097505
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Tyee Campus",
+        "OBJECTID": 87,
+        "FEATURE_ID": 10000045,
+        "ESITE": 397165,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Tyee Campus",
+        "ADDRESS": "4424 S 188th St",
+        "ZIPCODE": 98188,
+        "PIN": 3423049044,
+        "MAJOR": 342304,
+        "MINOR": 9044
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23575878093233,
+          47.381052673663945
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint at Valley Cities Kent",
+        "OBJECTID": 88,
+        "FEATURE_ID": 10000046,
+        "ESITE": 1001073,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint at Valley Cities Kent",
+        "ADDRESS": "325 W Gowe St",
+        "ZIPCODE": 98032,
+        "PIN": 9825700370,
+        "MAJOR": 982570,
+        "MINOR": "0370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16660485552734,
+          47.62121606464943
+        ]
+      },
+      "properties": {
+        "name": "Bellevue CBOC (Valor Healthcare)",
+        "OBJECTID": 89,
+        "FEATURE_ID": 10000047,
+        "ESITE": 112362,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Bellevue CBOC (Valor Healthcare)",
+        "ADDRESS": "13033 Bel-Red Rd",
+        "ZIPCODE": 98005,
+        "PIN": 2825059121,
+        "MAJOR": 282505,
+        "MINOR": 9121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.17870811424403,
+          47.71580893280882
+        ]
+      },
+      "properties": {
+        "name": "EvergreenHealth Medical Center",
+        "OBJECTID": 90,
+        "FEATURE_ID": 502,
+        "ESITE": 39289,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "EvergreenHealth Medical Center",
+        "ADDRESS": "12040 NE 128th St",
+        "ZIPCODE": 98034,
+        "WEBSITE": "http://www.evergreenhealthcare.org/default.htm",
+        "PIN": 2826059144,
+        "MAJOR": 282605,
+        "MINOR": 9144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.88535977077116,
+          47.51238657384665
+        ]
+      },
+      "properties": {
+        "name": "Snoqualmie Valley Hospital",
+        "OBJECTID": 91,
+        "FEATURE_ID": 2181,
+        "ESITE": 194368,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Snoqualmie Valley Hospital",
+        "ADDRESS": "9801 Frontier Ave SE",
+        "ZIPCODE": 98065,
+        "WEBSITE": "http://www.snoqualmiehospital.org/",
+        "PIN": "0623089021",
+        "MAJOR": "062308",
+        "MINOR": 9021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34311400008836,
+          47.45747390073147
+        ]
+      },
+      "properties": {
+        "name": "Highline Medical Center - Main Campus",
+        "OBJECTID": 92,
+        "FEATURE_ID": 1248,
+        "ESITE": 611050,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Highline Medical Center Main Campus",
+        "ADDRESS": "16251 Sylvester Rd  SW",
+        "ZIPCODE": 98166,
+        "WEBSITE": "http://www.highlinemedicalcenter.org/welcome/index.php",
+        "PIN": 3023049027,
+        "MAJOR": 302304,
+        "MINOR": 9027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37961188832553,
+          47.667426651181266
+        ]
+      },
+      "properties": {
+        "name": "Ballard Community Hospital",
+        "OBJECTID": 93,
+        "FEATURE_ID": 896,
+        "ESITE": 328287,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Ballard Community H",
+        "ADDRESS": "NW Market St & Barnes Ave NW",
+        "ZIPCODE": 98107,
+        "WEBSITE": "http://www.swedish.org/body.cfm?id=2052",
+        "PIN": 2767703875,
+        "MAJOR": 276770,
+        "MINOR": 3875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.18685496286487,
+          47.620373426834185
+        ]
+      },
+      "properties": {
+        "name": "Overlake Hospital Medical Center",
+        "OBJECTID": 94,
+        "FEATURE_ID": 147,
+        "ESITE": 101690,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Overlake Medical Center",
+        "ADDRESS": "1035 116th Ave NE",
+        "ZIPCODE": 98104,
+        "WEBSITE": "http://www.overlakehospital.org/",
+        "PIN": 6448110060,
+        "MAJOR": 644811,
+        "MINOR": "0060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31785931588728,
+          47.30195482790542
+        ]
+      },
+      "properties": {
+        "name": "HealthPoint Federal Way",
+        "OBJECTID": 95,
+        "FEATURE_ID": 2701,
+        "ESITE": 705937,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "HealthPoint Federal Way",
+        "ADDRESS": "33431 13th Pl S",
+        "ZIPCODE": 98003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32432312595746,
+          47.609227065054206
+        ]
+      },
+      "properties": {
+        "name": "Pacific Medical First Hill",
+        "OBJECTID": 96,
+        "FEATURE_ID": 2650,
+        "ESITE": 437413,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Pacific Medical First Hill",
+        "ADDRESS": "1101 Madison St",
+        "ZIPCODE": 98104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32965709457989,
+          47.61784032216313
+        ]
+      },
+      "properties": {
+        "name": "Pacific Medical Sleep Center",
+        "OBJECTID": 97,
+        "FEATURE_ID": 2651,
+        "ESITE": 440498,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Pacific Medical Sleep Center",
+        "ADDRESS": "1800 Yale Ave",
+        "ZIPCODE": 98101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33412426728735,
+          47.70868405530472
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic-Northgate",
+        "OBJECTID": 98,
+        "FEATURE_ID": 2659,
+        "ESITE": "0000000",
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Polyclinic-Northgate",
+        "ADDRESS": "10111 Meridian Ave N",
+        "ZIPCODE": 98133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31752737812197,
+          47.681128346181715
+        ]
+      },
+      "properties": {
+        "name": "Swedish Clinic Green Lake",
+        "OBJECTID": 99,
+        "FEATURE_ID": 2665,
+        "ESITE": "0000000",
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Clinic Green Lake",
+        "ADDRESS": "7210 Roosevelt Ave NE",
+        "ZIPCODE": 98115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.05374949299359,
+          47.546631957306104
+        ]
+      },
+      "properties": {
+        "name": "UW Clinic Issaquah",
+        "OBJECTID": 100,
+        "FEATURE_ID": 2674,
+        "ESITE": 571237,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Clinic Issaquah",
+        "ADDRESS": "1455 11th Ave NW",
+        "ZIPCODE": 98027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29637025108774,
+          47.393656640686395
+        ]
+      },
+      "properties": {
+        "name": "UW Clinic Kent",
+        "OBJECTID": 101,
+        "FEATURE_ID": 2675,
+        "ESITE": 389617,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Clinic Kent",
+        "ADDRESS": "23213 Pacific Hwy S",
+        "ZIPCODE": 98032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.21452900768358,
+          47.44422979575864
+        ]
+      },
+      "properties": {
+        "name": "Valley Medical Cascade Primary Care",
+        "OBJECTID": 102,
+        "FEATURE_ID": 2681,
+        "ESITE": 600033,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Valley Medical Cascade Primary Care",
+        "ADDRESS": "4033 Talbot Rd S",
+        "ZIPCODE": 98055
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16809665913493,
+          47.53806563622926
+        ]
+      },
+      "properties": {
+        "name": "Valley Medical Newcastle Primary Care",
+        "OBJECTID": 103,
+        "FEATURE_ID": 2687,
+        "ESITE": 11216,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Valley Medical Newcastle Primary Care",
+        "ADDRESS": "7203 129th Ave SE",
+        "ZIPCODE": 98056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33084297437188,
+          47.3004553244476
+        ]
+      },
+      "properties": {
+        "name": "Pacific Medical Federal Way",
+        "OBJECTID": 104,
+        "FEATURE_ID": 2649,
+        "ESITE": 714727,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Pacific Medical Federal Way",
+        "ADDRESS": "33501 1st Way S",
+        "ZIPCODE": 98003
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31598703809308,
+          47.59280111770589
+        ]
+      },
+      "properties": {
+        "name": "Pacific Medical Center-Central",
+        "OBJECTID": 105,
+        "FEATURE_ID": 1752,
+        "ESITE": 440009,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Pacific MC- Central",
+        "ADDRESS": "1200 12th Ave S",
+        "ZIPCODE": 98144,
+        "WEBSITE": "http://www.pacmed.org/locations.beaconhill.html",
+        "PIN": 2829600110,
+        "MAJOR": 282960,
+        "MINOR": "0110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29257760262854,
+          47.66173216466475
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic-Sand Point",
+        "OBJECTID": 106,
+        "FEATURE_ID": 2660,
+        "ESITE": 348484,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Polyclinic-Sand Point",
+        "ADDRESS": "3216 NE 45th Pl",
+        "ZIPCODE": 98105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31194650974105,
+          47.61545742020668
+        ]
+      },
+      "properties": {
+        "name": "Seattle Eye Clinic",
+        "OBJECTID": 107,
+        "FEATURE_ID": 1826,
+        "ESITE": 440616,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Seattle Eye Clinic",
+        "ADDRESS": "1601 16th Ave",
+        "ZIPCODE": 98122,
+        "WEBSITE": "none",
+        "PIN": 7234600310,
+        "MAJOR": 723460,
+        "MINOR": "0310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32366124155416,
+          47.603920649070204
+        ]
+      },
+      "properties": {
+        "name": "Harborview Medical Center",
+        "OBJECTID": 108,
+        "FEATURE_ID": 860,
+        "ESITE": 438405,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Harborview Med Ctr",
+        "ADDRESS": "325 9th Ave",
+        "ZIPCODE": 98104,
+        "WEBSITE": "http://www.uwmedicine.org/Facilities/Harborview/",
+        "PIN": 8590400545,
+        "MAJOR": 859040,
+        "MINOR": "0545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.03666213744933,
+          47.583235197753936
+        ]
+      },
+      "properties": {
+        "name": "Swedish Clinic Pine Lake",
+        "OBJECTID": 109,
+        "FEATURE_ID": 2668,
+        "ESITE": 532763,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Clinic Pine Lake",
+        "ADDRESS": "22707 SE 29th St",
+        "ZIPCODE": 98075
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14923139520239,
+          47.44439921076697
+        ]
+      },
+      "properties": {
+        "name": "Valley Medical Fairwood Primary Care",
+        "OBJECTID": 110,
+        "FEATURE_ID": 2683,
+        "ESITE": 606570,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Valley Medical Fairwood Primary Care",
+        "ADDRESS": "14410 SE Petrovisky Rd",
+        "ZIPCODE": 98058
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29257760260329,
+          47.66173216376547
+        ]
+      },
+      "properties": {
+        "name": "Lakeview Medical Dental Center",
+        "OBJECTID": 111,
+        "FEATURE_ID": 1684,
+        "ESITE": 348484,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Lakeview Medical Dental Center",
+        "ADDRESS": "3216 NE 45th Pl",
+        "ZIPCODE": 98105,
+        "WEBSITE": "http://www.wcrcseattle.com/",
+        "PIN": 2436201055,
+        "MAJOR": 243620,
+        "MINOR": 1055
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32185764242867,
+          47.61012187486139
+        ]
+      },
+      "properties": {
+        "name": "Nordstrom Medical Tower",
+        "OBJECTID": 112,
+        "FEATURE_ID": 1731,
+        "ESITE": 437345,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Nordstrom Medical Tower",
+        "ADDRESS": "1229 Madison St",
+        "ZIPCODE": 98104,
+        "WEBSITE": "http://www.emporis.com/en/wm/bu/?id=nordstrommedicaltower-seattle-wa-usa",
+        "PIN": 1978201015,
+        "MAJOR": 197820,
+        "MINOR": 1015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.31019022170518,
+          47.57770302019498
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic-Jefferson park",
+        "OBJECTID": 113,
+        "FEATURE_ID": 2658,
+        "ESITE": 456953,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Polyclinic-Jefferson park",
+        "ADDRESS": "2902 Beacon Ave S",
+        "ZIPCODE": 98144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32624980021114,
+          47.60887340383367
+        ]
+      },
+      "properties": {
+        "name": "Blood Bank-First Hill",
+        "OBJECTID": 114,
+        "FEATURE_ID": 1504,
+        "ESITE": "0000000",
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Blood Bank - First Hill",
+        "ADDRESS": "Terry Ave & Madison St",
+        "ZIPCODE": 98104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32636613985507,
+          47.608451403999055
+        ]
+      },
+      "properties": {
+        "name": "Puget Sound Blood Center",
+        "OBJECTID": 115,
+        "FEATURE_ID": 3300016,
+        "ESITE": 446015,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Blood Bank - First Hill",
+        "ADDRESS": "921 Terry Ave",
+        "ZIPCODE": 98104,
+        "WEBSITE": "http://www.psbc.org/home/index.htm",
+        "PIN": 1979200290,
+        "MAJOR": 197920,
+        "MINOR": "0290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34252697845993,
+          47.77771617104044
+        ]
+      },
+      "properties": {
+        "name": "UW Clinic Shoreline",
+        "OBJECTID": 116,
+        "FEATURE_ID": 2676,
+        "ESITE": 135646,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Clinic Shoreline",
+        "ADDRESS": "1355 N 205th St",
+        "ZIPCODE": 98133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32806983956328,
+          47.60795789190277
+        ]
+      },
+      "properties": {
+        "name": "Pacific Medical Womens Clinic",
+        "OBJECTID": 117,
+        "FEATURE_ID": 2653,
+        "ESITE": 925162,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Pacific Medical Womens Clinic",
+        "ADDRESS": "805 Madison St",
+        "ZIPCODE": 98104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16403447111867,
+          47.578880080612656
+        ]
+      },
+      "properties": {
+        "name": "UW Clinic Factoria",
+        "OBJECTID": 118,
+        "FEATURE_ID": 2672,
+        "ESITE": 113634,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Clinic Factoria",
+        "ADDRESS": "13231 SE 36th St",
+        "ZIPCODE": 98006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.19137885345211,
+          47.61974513185354
+        ]
+      },
+      "properties": {
+        "name": "Blood Bank-Bellevue",
+        "OBJECTID": 119,
+        "FEATURE_ID": 1503,
+        "ESITE": 106214,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Blood Bank - Bellevue",
+        "ADDRESS": "1021 112th Ave NE",
+        "ZIPCODE": 98004,
+        "WEBSITE": "http://www.psbc.org/programs/cntr_bellevue.htm",
+        "PIN": 5291200005,
+        "MAJOR": 529120,
+        "MINOR": "0005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35733582532077,
+          47.63879960833899
+        ]
+      },
+      "properties": {
+        "name": "Swedish Clinic Queen Anne",
+        "OBJECTID": 120,
+        "FEATURE_ID": 2669,
+        "ESITE": 416529,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Clinic Queen Anne",
+        "ADDRESS": "2211 Queen Anne Ave N",
+        "ZIPCODE": 98109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32728213992422,
+          47.29261026157906
+        ]
+      },
+      "properties": {
+        "name": "St Francis Hospital",
+        "OBJECTID": 121,
+        "FEATURE_ID": 103,
+        "ESITE": 711911,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "St. Francis  Hospital",
+        "ADDRESS": "34515 9th Ave S",
+        "ZIPCODE": 98003,
+        "WEBSITE": "https://www.fhshealth.org/location/sfh.asp",
+        "PIN": 7504510020,
+        "MAJOR": 750451,
+        "MINOR": "0020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.22926910249932,
+          47.30852874525195
+        ]
+      },
+      "properties": {
+        "name": "MultiCare Auburn Medical Center",
+        "OBJECTID": 122,
+        "FEATURE_ID": 22,
+        "ESITE": 717584,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "MultiCare Auburn Medical Center",
+        "ADDRESS": "202 N Division St",
+        "ZIPCODE": 98002,
+        "WEBSITE": "https://www.armcuhs.com/p1.html",
+        "PIN": "0492500240",
+        "MAJOR": "049250",
+        "MINOR": "0240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2044154572006,
+          47.71945409605988
+        ]
+      },
+      "properties": {
+        "name": "Fairfax Hospital",
+        "OBJECTID": 123,
+        "FEATURE_ID": 1585,
+        "ESITE": 168945,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Fairfax Hospital",
+        "ADDRESS": "10200 NE 132nd St",
+        "ZIPCODE": 98034,
+        "WEBSITE": "http://www.athealth.com/Consumer/tcenter/fairfax_hospital.html",
+        "PIN": 2026059018,
+        "MAJOR": 202605,
+        "MINOR": 9018
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0554425332748,
+          47.35743624217505
+        ]
+      },
+      "properties": {
+        "name": "Valley Medical Lake Sawyer Primary Care",
+        "OBJECTID": 124,
+        "FEATURE_ID": 2686,
+        "ESITE": 975421,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Valley Medical Lake Sawyer Primary Care",
+        "ADDRESS": "27203 216th Ave SE",
+        "ZIPCODE": 98038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32081510475015,
+          47.61221103389206
+        ]
+      },
+      "properties": {
+        "name": "Polyclinic-First Hill",
+        "OBJECTID": 125,
+        "FEATURE_ID": 1795,
+        "ESITE": "0000000",
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Polyclinic - First Hill",
+        "ADDRESS": "1145 Broadway Ave",
+        "ZIPCODE": 98122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30710463539017,
+          47.64968138764886
+        ]
+      },
+      "properties": {
+        "name": "UW Medical Center",
+        "OBJECTID": 126,
+        "FEATURE_ID": 1345,
+        "ESITE": 14020,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "UW Medical Center",
+        "ADDRESS": "1959 NE Pacific St",
+        "ZIPCODE": 98195,
+        "WEBSITE": "http://www.uwmedicine.org/Facilities/UWMedicalCenter/",
+        "PIN": 1625049001,
+        "MAJOR": 162504,
+        "MINOR": 9001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3338793391449,
+          47.60614720017527
+        ]
+      },
+      "properties": {
+        "name": "Swedish Clinic Downtown Seattle",
+        "OBJECTID": 127,
+        "FEATURE_ID": 2663,
+        "ESITE": 443955,
+        "CODE": "Hospital or Medical Center",
+        "ABB_NAME": "Swedish Downtown",
+        "ADDRESS": "1001 4th Ave",
+        "ZIPCODE": 98154
+      }
+    }
+  ]
+}

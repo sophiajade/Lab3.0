@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<div class="home">
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+  <h1>Medical Services and Geographically Significant Areas in Washington State</h1>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+  <link rel="stylesheet" href="Lab3.css"/>
+  <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+<div class="row">
+    <div class="column">
+  <div id="map" style="width: 650px; height: 600px; margin: auto;"></div>
+  <script>
+  var newMap = L.map('map').setView([47.458, -121.850], 9);
+  L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href=”http://osm.org/copyright”>OpenStreetMap</a> contributors'
+  }).addTo(newMap);
+
+newMap.createPane("polygonsPane4");
+newMap.createPane("polygonsPane3");
+newMap.createPane("polygonsPane2");
+newMap.createPane("pointsPane1");
+
+  $.getJSON("boundary.json",function(data){
+    L.geoJson(data, {
+      pane:"polygonsPane4",
+         style: function(feature){
+           return { color: "#666699", fillOpacity: 0, weight: 2 };
+         },
+         onEachFeature: function( feature, layer ){
+           layer.bindPopup("This is " + feature.properties.COUNTY + " COUNTY")}}
+    ).addTo(newMap);
+  });
+  $.getJSON("seismichazards.json",function(data){
+    L.geoJson(data, {
+      pane:"polygonsPane3",
+         style: function(feature){
+           var fillColor,
+               density = feature.properties.density;
+           return { color: "#1c9099", weight: 2, fillColor: fillColor, fillOpacity: .8 };
+         },
+         onEachFeature: function( feature, layer ){
+           layer.bindPopup( "<strong>" + feature.properties.HAZARD + '<br/>' + "Hazard Area")}}
+    ).addTo(newMap);
+  });
+  $.getJSON("medical.json",function(data){
+    var hospitalIcon = L.icon({
+    iconUrl: 'hospital-11.svg',
+    iconSize: [10,10]
+  });
+    L.geoJson(data,{
+      pane:"polygonsPane2",
+    pointToLayer: function(feature,latlng){
+      var marker = L.marker(latlng,{icon: hospitalIcon});
+  marker.bindPopup("<strong>" + feature.properties.name + '<br/>' + feature.properties.ADDRESS);
+  return marker;
+	  return L.marker(latlng,{icon: hospitalIcon});
+    }
+  }).addTo(newMap);
+});
+$.getJSON("ruralforest.json",function(data){
+  L.geoJson(data, {
+    pane:"pointsPane1",
+       style: function(feature){
+         var fillColor,
+             density = feature.properties.density;
+         return { color: "#145214", weight: 2, fillColor: fillColor, fillOpacity: .8 };
+       },
+       onEachFeature: function( feature, layer ){
+         layer.bindPopup( "<strong>" + feature.properties.name)}}
+  ).addTo(newMap);
+});
+  </script>
+</div>
+<div class="row">
+  <div class="column">
+<h>This map represents medical services (categorized as licensed hospitals, dental centers, and blood banks) and their proximity to geographically significant areas in the King County region detailed below.</p>
+<p>&#8595;</p>
+<p>The point layer symbolized by a black medical cross, shows medical services within King County. By clicking on any given symbol, the name and address is provided. Visualizing where medical services are in relation to potential hazardous areas can benefit residents of King County to help them feel more prepared for natural disasters. </p>
+<p><a href="https://gis-kingcounty.opendata.arcgis.com/datasets/medical-facilities-including-hospitals-medical-facilities-point" target="_blank"> King County Medical Services Data</a>   /  <a href="https://labs.mapbox.com/maki-icons/" target="_blank"> Hospital Icon Source</a></p>
+<p>Washington state has experienced seismic activity and has since had many predictions for future earthquakes. The King County Sensitive Areas Ordinance (SAO) has defined important geographical areas at severe risk of earthquake damage. These seismic hazard areas are often located where soils have a lower density and the groundwater table is shallow.</p>
+<p><a href="https://gis-kingcounty.opendata.arcgis.com/datasets/seismic-hazards-seism-area" target="_blank"> King County Seismic Hazards Data</a></p>
+<p>King County’s Rural Forest Focus Areas are targets of potential growth and funding locations under the King County Comprehensive Planning Process. A fairly new distinction, these focus areas are to be identified in order to maintain forest cover and ensure that sustainable forestry practices are being upheld. It is interesting to see where these protected areas are, in comparison to where seismic activity is more likely to occur. These polygons could be used to help determine future forested areas with the knowledge of where seismic activity has already been documented.</p>
+<p><a href="https://gis-kingcounty.opendata.arcgis.com/datasets/rural-forest-focus-area-of-king-county-rural-forest-focus-area?geometry=-123.833%2C47.189%2C-119.949%2C47.838" target="_blank"> King County Rural Forests Focus Areas Data</a></p>
+<p>A dark boundary line is added to better visualize King County within Washington state.</p>
+<p><a href="https://gis-kingcounty.opendata.arcgis.com/datasets/king-county-political-boundary-no-waterbodies-kingco-area" target="_blank"> King County Political Boundary</a></p>
+</div>
+</div>
+</body>
+</div>
+</div>
+</html>
